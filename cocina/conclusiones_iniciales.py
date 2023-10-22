@@ -21,9 +21,10 @@ print("")
 print(f"El porcentaje que supondra el cobro recibido de forma anual durante 32 años el cual es {recibido2} supondra un {round(porcentaje_aumento_anual)} % del gasto de media anual del ayuntamiento")
 print("")
 porcentaje_aumento_al_recibir= ((recibido+recibido2)/media)*100
-print(f"El porcentaje que supondra el cobro recibido tras recibir la entrada y el primer anual si ponemos la media de los ultimos 10 años como base será {round(porcentaje_aumento_al_recibir)} % del gasto de media anual del ayuntamiento")
+print(f"El porcentaje que supondra el cobro recibido tras recibir la entrada y el primer anual si ponemos la media de los ultimos 10 años como base será {round(porcentaje_aumento_al_recibir)} % del gasto de media anual del ayuntamiento, lo que supone un monto de {media+recibido+recibido2}")
 print("")
 print(f"Si dividimos la entrada entre lo que dura una legislatura tenemos {recibido/4} por año, lo que supone un total de {round(((recibido/4)+recibido2))} lo que es igual {round((((recibido/4)+recibido2)/media),1)*100}% mas anualmente durante 4 años")
+print(f" segun esta division cada uno de estos años generaría una suma aprox de {media+recibido/4+recibido2}")
 print("")
 
 viviendas_comarca = pd.read_csv("dataset/solares_comarca_corregido.csv", sep=";", encoding="ISO-8859-1")
@@ -38,4 +39,4 @@ print(f"Si cada vivienda tiene un gasto de media de 140 la suma de todas las viv
 print("")
 print(F"Siguiendo esa media, cada casa gasta anualmente de media {media_gasto_electricidad*12} al año y {media_gasto_electricidad*12*20} al cabo de 20 años")
 print("")
-
+print(f"{media+recibido2}")
