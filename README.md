@@ -1,0 +1,7 @@
+Este EDA es un trabajo en constante renovación cuya finalidad, es analizar la situación financiera del ayuntamiento de Antas y desde dicho analisis de datos articular la estrategia de gasto que explote al maximo las posibilidades que se le abren al municipio debido a la concesion de un contrato millonario con Energy green power.
+
+El trabajo comienza con una recolecta de datos brutos de fuentes estructuradas y no estructuradas tales con INE y escrapeo de paginas web como Foro-ciudad y otras, así como documentos proporcionados por el propio ayuntamiento.
+
+Una vez limpiado y estructurado los datos se realiza una reflexión estrategia en base a las oportunidades que estos brindan que me conduce a generar diferentes hipotesis: - la electricidad puede ser totalmente gratuita para todas las viviendas de Antas, al mismo tiempo que construyes un pabellos y saneas la deuda a 0. Todo ello con espacio a mas políticas imnovadoras que de momento no se han tratado aquí.
+
+Una vez echas las hipotesis y estructurados y limpiados los datos, trabajo con ellos para tratar de justificar de forma empirica la estrategia que conduce al exito de las hipotesis establecidas, todo ello, realizando graficos que son utilizados para una presentación visual de la estrategia con fines a presentarsela al equipo de gobierno del ayuntamiento.
