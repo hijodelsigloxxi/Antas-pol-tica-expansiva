@@ -8,13 +8,6 @@ Este repositorio alberga un análisis estratégico exhaustivo centrado en evalua
 ##  Propósito
 El principal objetivo de este análisis es brindar una visión clara y fundamentada sobre las potenciales consecuencias, beneficios y desafíos que podría conllevar la implementación de estas políticas expansivas en Antas.
 
-##  Contenidos
-- **[1. Introducción](#introducción)**
-- **[2. Justificación](#justificación)**
-- **[3. Antecedentes](#antecedentes)**
-- **[4. Ámbito de Actuación](#ámbito-de-actuación)**
-- **... (Otros apartados del documento) ...**
-
 ##  Uso
 Este documento está diseñado para ser una herramienta clave para los tomadores de decisiones del Ayuntamiento de Antas, proporcionando insights valiosos que guíen en el proceso de evaluar e implementar políticas financieras de gran envergadura.
 
